@@ -8,7 +8,7 @@ import {sidebars} from './data/sidebar.data.js'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
     base: '/coding-website/',
-    outDir: '../dist',
+    //outDir: '../dist',
     title: `鹿心肺语的知识库`,
     description: `Coding one more time`,
     // sitemap: {
