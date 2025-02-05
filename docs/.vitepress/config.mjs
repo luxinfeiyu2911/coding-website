@@ -9,7 +9,7 @@ const baseURL = '/coding-website/';
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
     base: baseURL,
-    outDir: '../dist',
+    // outDir: '../dist',
     title: `鹿心肺语的知识库`,
     description: `Coding one more time`,
     // sitemap: {
