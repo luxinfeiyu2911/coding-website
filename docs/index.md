@@ -5,7 +5,7 @@ markdownStyles: true
 
 hero:
   name: "叩叮壹刻"
-  text: "<span style='font-size: smaller;'>Coding one more time</span>"
+  text: "<span style='font-size: smaller;'>𝙲𝚘𝚍𝚒𝚗𝚐 𝚘𝚗𝚎 𝚖𝚘𝚛𝚎 𝚝𝚒𝚖𝚎</span>"
   tagline: "<span style='font-size: x-large;'>鹿心肺语的知识库 | 记录点点滴滴的日常 🔆</span>"
   image:
     src: /assets/image/hero.png
@@ -13,7 +13,7 @@ hero:
   actions:
     - theme: brand
       text: 进入探索 ✨
-      link: /_posts/编程语言与技术/计算机基础知识/00. 内容前言
+      link: /_posts/2. 小册合集/201. 计算机基础知识/00. 内容前言.md
     - theme: alt
       text: 👨🏻‍💻 关于作者
       link: /_about/关于作者/关于作者
@@ -47,3 +47,7 @@ features:
 #footer:
 
 ---
+
+<script setup>
+
+</script>
