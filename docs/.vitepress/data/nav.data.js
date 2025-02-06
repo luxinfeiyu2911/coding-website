@@ -15,30 +15,39 @@ function generateNav(dirPath) {
             const fullPath = path.join(dirPath, dirent.name);
             const relativePath = path.relative(postsDirPath, fullPath).replace(/\\/g, '/');
             const items = generateNavItems(fullPath); // 获取下级目录
-            return {
-                text: dirent.name,
-                path: `/${postsDir}/${relativePath}/`, // 确保路径以 /_posts/ 开头
-                items: items.length > 0 ? items : undefined // 如果有子目录，则添加到 items
+            // 如果 items 为 null，则不添加 items 字段
+            const navEntry = {
+                text: cleanDirectoryName(dirent.name),
+                path: `/${postsDir}/${relativePath}/` // 确保路径以 /_posts/ 开头
             };
+            if (items) {
+                navEntry.items = items;
+            } else {
+                navEntry.link = `/${postsDir}/${relativePath}/`;
+            }
+            return navEntry;
         });
 
-    return directories;
+    return directories.length > 0 ? directories : null; // 如果顶级目录为空，返回 null
 }
 
 // 获取下级目录
 function generateNavItems(dirPath) {
-    return fs.readdirSync(dirPath, {withFileTypes: true})
+    const items = fs.readdirSync(dirPath, {withFileTypes: true})
         .filter(dirent => dirent.isDirectory() && !ignoreDirs.includes(dirent.name))
         .map(dirent => {
             const fullPath = path.join(dirPath, dirent.name);
             const relativePath = path.relative(postsDirPath, fullPath).replace(/\\/g, '/');
             const link = getFirstMdFile(fullPath); // 获取第一个 .md 文件或 index.md
+            // 如果 items 为 null，则不添加 items 字段
             return {
-                text: dirent.name,
+                text: cleanDirectoryName(dirent.name),
                 path: `/${postsDir}/${relativePath}/`, // 确保路径以 /_posts/ 开头
                 link: link || null
             };
         });
+
+    return items.length > 0 ? items : null; // 如果下级目录为空，返回 null
 }
 
 // 获取第一个 .md 文件或 index.md
@@ -61,6 +70,12 @@ function getFirstMdFile(dirPath) {
         return `/${postsDir}/${relativePath.replace('.md', '')}`; // 去掉 .md 后缀并确保路径以 /_posts/ 开头
     }
     return null; // 如果没有 .md 文件或 index.md，返回 null
+}
+
+// 清理目录名称，去掉“数字. ”前缀
+function cleanDirectoryName(name) {
+    const pattern = /^\d+\.\s+/;
+    return pattern.test(name) ? name.replace(pattern, '') : name;
 }
 
 // 获取所有顶级子目录
