@@ -5,7 +5,7 @@ markdownStyles: true
 
 hero:
   name: "叩叮壹刻"
-  text: "<span style='font-size: smaller;'>𝙲𝚘𝚍𝚒𝚗𝚐 𝚘𝚗𝚎 𝚖𝚘𝚛𝚎 𝚝𝚒𝚖𝚎</span>"
+  text: "<span style='font-size: smaller;'>Coding one more time</span>"
   tagline: "<span style='font-size: x-large;'>鹿心肺语的知识库 | 记录点点滴滴的日常 🔆</span>"
   image:
     src: /assets/image/hero.png
