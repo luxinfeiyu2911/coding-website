@@ -30,7 +30,7 @@ Your Duke character code：`2b40ec50ce31589592a9295a860409aa`。
 
 **Rendering**：
 
-![](./assets/image-20250524112916.png)
+![](assets/image-20250524112916.png)
 
 ## 02. Romote-controlled dev（远程控制开发者）
 
@@ -46,7 +46,7 @@ Your Duke character code：`bc17df702c2c65ab9eea00c668f590c1`。
 
 **Rendering**：
 
-![](./assets/image-20250524113031.png)
+![](assets/image-20250524113031.png)
 
 ## 03. Git philosopher（Git 哲学家）
 
@@ -62,7 +62,7 @@ Your Duke character code：`8d5859ddaf5134cc5ae4d4098ac2cd6e`。
 
 **Rendering**：
 
-![](./assets/image-20250524113653.png)
+![](assets/image-20250524113653.png)
 
 ## 04. Syntax nomad（语法游牧者）
 
@@ -78,7 +78,7 @@ Your Duke character code：`4ec8f48d0fd6b011e4a0bbc801cd41c3`。
 
 **Rendering**：
 
-![](./assets/image-20250524113946.png)
+![](assets/image-20250524113946.png)
 
 ## 05. Container whisperer(容器低语者)
 
@@ -94,7 +94,7 @@ Your Duke character code：`2d0e55ecd2adb48a19d1a579037813a0`。
 
 **Rendering**：
 
-![](./assets/image-20250524115222.png)
+![](assets/image-20250524115222.png)
 
 ## 06. WARlord(WAR大领主)
 
@@ -110,7 +110,7 @@ Your Duke character code：`a25c68853e9c2edc7c3a3508b325b5af`。
 
 **Rendering**：
 
-![](./assets/image-20250524115443.png)
+![](assets/image-20250524115443.png)
 
 ## 07. Duke Nukem.java(公爵大冒险.java)
 
@@ -126,7 +126,7 @@ Your Duke character code：`fda9b7d363f53597b647322572c616ba`。
 
 **Rendering**：
 
-![](./assets/image-20250524115642.png)
+![](assets/image-20250524115642.png)
 
 ## 08. IDE skeptic(IDE怀疑论者)
 
@@ -142,7 +142,7 @@ Your Duke character code：`3ad7a84642024a8e1ea14be3ce70bd78`。
 
 **Rendering**：
 
-![](./assets/image-20250524115857.png)
+![](assets/image-20250524115857.png)
 
 ## 09. Meme-driven dev(梗驱动开发者)
 
@@ -158,7 +158,7 @@ Your Duke character code：`0b435eb9bfc2464bd9ef61bb8d5d8846`。
 
 **Rendering**：
 
-![](./assets/image-20250524120302.png)
+![](assets/image-20250524120302.png)
 
 ## 10. Director of agents(代理总监)
 
@@ -174,7 +174,7 @@ Your Duke character code：`60d5d194ecf1215296d3cdcf719ca89d`。
 
 **Rendering**：
 
-![](./assets/image-20250524120523.png)
+![](assets/image-20250524120523.png)
 
 ## 11. Microservice guru(微服务大师)
 
@@ -190,7 +190,7 @@ Your Duke character code：`f69c946282538cbac54b9539c216def9`。
 
 **Rendering**：
 
-![](./assets/image-20250524120722.png)
+![](assets/image-20250524120722.png)
 
 ## 12. IDE loyalist(IDE 忠诚者)
 
@@ -206,7 +206,7 @@ Your Duke character code：`3a2ce589d224acb366b5116f84e86ca6`。
 
 **Rendering**：
 
-![](./assets/image-20250524121028.png)
+![](assets/image-20250524121028.png)
 
 ## 13. Framework collector(框架收藏家)
 
@@ -222,7 +222,7 @@ Your Duke character code：`69225e22e6ded2f60f1065db941a0f6e`。
 
 **Rendering**：
 
-![](./assets/image-20250524121222.png)
+![](assets/image-20250524121222.png)
 
 ## 14. Lambda ambassador(Lambda 大使)
 
@@ -238,7 +238,7 @@ Your Duke character code：`19672ab97b05acc9743cbbf560afaf18`。
 
 **Rendering**：
 
-![](./assets/image-20250524121448.png)
+![](assets/image-20250524121448.png)
 
 ## 15. Zoom shadow(Zoom 影子)
 
@@ -254,7 +254,7 @@ Your Duke character code：`110eefd412c6be4d2864894af8f3f0cb`。
 
 **Rendering**：
 
-![](./assets/image-20250524121708.png)
+![](assets/image-20250524121708.png)
 
 ## 16. Friday deployer(周五部署者)
 
@@ -270,7 +270,7 @@ Your Duke character code：`f76af4e3cd9b3832ee30c7919e99ae17`。
 
 **Rendering**：
 
-![](./assets/image-20250524121928.png)
+![](assets/image-20250524121928.png)
 
 ## 17. Web chaos Duke(网页混乱公爵)
 
@@ -286,7 +286,7 @@ Your Duke character code：`f62cd724d63ad6f54151403bd73e874c`。
 
 **Rendering**：
 
-![](./assets/image-20250524122159.png)
+![](assets/image-20250524122159.png)
 
 ## 18. Stack Overflow prophet(Stack Overflow先知)
 
@@ -302,7 +302,7 @@ Your Duke character code：`e5c81f16e574e1f9c5f68f15b9d314f4`。
 
 **Rendering**：
 
-![](./assets/image-20250524122434.png)
+![](assets/image-20250524122434.png)
 
 ## 19. The applet evangelist(小程序传道者)
 
@@ -318,7 +318,7 @@ Your Duke character code：`83828e5cd7f44ca1a53c7197382ea224`。
 
 **Rendering**：
 
-![](./assets/image-20250524122633.png)
+![](assets/image-20250524122633.png)
 
 ## 20. Dark theme Duke(暗黑主题公爵)
 
@@ -334,7 +334,7 @@ Your Duke character code：`b1ececb71ab88dfd65cf40966d8eb135`。
 
 **Rendering**：
 
-![](./assets/image-20250524122848.png)
+![](assets/image-20250524122848.png)
 
 ## 21. Javafluencer(Java影响者)
 
@@ -350,7 +350,7 @@ Your Duke character code：`ad383f39cbf1d69607223f66c07bdd1e`。
 
 **Rendering**：
 
-![](./assets/image-20250524123445.png)
+![](assets/image-20250524123445.png)
 
 ## 22. Debugger in baggy jeans(穿宽松牛仔裤的调试大师)
 
@@ -366,7 +366,7 @@ Your Duke character code：`7cddee11a6a1af5477479c1aaad86f66`。
 
 **Rendering**：
 
-![](./assets/image-20250524123655.png)
+![](assets/image-20250524123655.png)
 
 ## 23. AI-powered dev(AI驱动的开发者)
 
@@ -382,7 +382,7 @@ Your Duke character code：`935953a74313da7ec95c6dbfadfaca02`。
 
 **Rendering**：
 
-![](./assets/image-20250524123903.png)
+![](assets/image-20250524123903.png)
 
 ## 24. Lord of agents(代理领主)
 
@@ -398,7 +398,7 @@ Your Duke character code：`9116a07e790bd5af3f7f8a2bff210657`。
 
 **Rendering**：
 
-![](./assets/image-20250524124227.png)
+![](assets/image-20250524124227.png)
 
 ## 25. Shift+Shift Duke(Shift+Shift公爵)
 
@@ -414,7 +414,7 @@ Your Duke character code：`87c1125501ead2504419b534ffe1d00d`。
 
 **Rendering**：
 
-![](./assets/image-20250524124616.png)
+![](assets/image-20250524124616.png)
 
 ## 26. Optional oracle(Optional神谕者)
 
@@ -430,7 +430,7 @@ Your Duke character code：`1d8b5b90ef272c283a93a1f94fd16dd1`。
 
 **Rendering**：
 
-![](./assets/image-20250524124827.png)
+![](assets/image-20250524124827.png)
 
 ## 27. Conference king(会议之王)
 
@@ -446,7 +446,7 @@ Your Duke character code：`882c4006ef2fef660df2cc9d33c08198`。
 
 **Rendering**：
 
-![](./assets/image-20250524125118.png)
+![](assets/image-20250524125118.png)
 
 ## 28. The JavaZilla(Java巨兽)
 
@@ -462,7 +462,7 @@ Your Duke character code：`6c0e8437227d1951391aeaa240f11cdd`。
 
 **Rendering**：
 
-![](./assets/image-20250524125440.png)
+![](assets/image-20250524125440.png)
 
 ## 29. Stack trace therapist(堆栈跟踪治疗师)
 
@@ -478,7 +478,7 @@ Your Duke character code：`ed28f2945037a6d7a5985cc3d766bfeb`。
 
 **Rendering**：
 
-![](./assets/image-20250524130842.png)
+![](assets/image-20250524130842.png)
 
 ## 30. Prompt perfectionist(提示词完美主义者)
 
@@ -494,4 +494,4 @@ Your Duke character code：`5a0932b1ea26a39e72380fd7f4fd60c9`。
 
 **Rendering**：
 
-![](./assets/image-20250524131254.png)
+![](assets/image-20250524131254.png)
